@@ -1,4 +1,4 @@
-### Hi, i'm MrPandaDev ( Template by [Derp](https://github.com/Derpinou) )
+### Hi, i'm MrKing.exe ( Template by [Derp](https://github.com/Derpinou) )
 
 - 🔭 I’m currently working on [Galaxiat](https://discord.galaxiat.com)
 - 📫 How to reach me: [Discord](https://discord.galaxiat.com)
